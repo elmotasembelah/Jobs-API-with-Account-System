@@ -1,9 +1,3 @@
-#### Setup
-
-```bash
-npm install && npm start
-```
-
 #### Database Connection
 
 1. Import connect.js
